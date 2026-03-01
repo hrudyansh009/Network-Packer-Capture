@@ -45,14 +45,8 @@ hs_err_pid*
 *.ilk
 *.exp
 
-# Packet captures (don’t commit huge binaries)
+# Packet captures
 *.pcap
 *.pcapng
 *.cap
 captures/
-
-# Python (if you add scripts later)
-__pycache__/
-*.pyc
-.venv/
-venv/
