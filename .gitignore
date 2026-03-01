@@ -1,0 +1,58 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
+logs/
+*.out
+
+# Secrets
+.env
+*.key
+*.pem
+*.pfx
+*.p12
+
+# Java / Maven / Gradle
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+out/
+.gradle/
+.mvn/
+*.pid
+hs_err_pid*
+
+# C / Native builds
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.a
+*.lib
+*.exe
+*.pdb
+*.ilk
+*.exp
+
+# Packet captures (don’t commit huge binaries)
+*.pcap
+*.pcapng
+*.cap
+captures/
+
+# Python (if you add scripts later)
+__pycache__/
+*.pyc
+.venv/
+venv/
