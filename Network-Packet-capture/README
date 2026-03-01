@@ -1,6 +1,6 @@
 
 
-                               jpcap README
+                               Network-Packet-Capture README
 
 
   General Information
@@ -87,12 +87,11 @@
     Additional information can be found on sourceforge.net, where 
     the project was actively developed since 2001.
 
-      http://www.sf.net/projects/jpcap
+  https://github.com/hrudyansh009/Network-Packer-Capture.git
 
     More recent development, more active development is occurring on github:
 
-      http://www.github.com/jpcap
-
+https://github.com/hrudyansh009/Network-Packer-Capture.git
 
   Contributing
 
@@ -100,8 +99,7 @@
     core capture library, please contribute them.
 
     You can contribute by forking the project and sending a pull request
-    to http://www.github.com/jpcap.
-
+https://github.com/hrudyansh009/Network-Packer-Capture.git
     If you've developed an application using jpcap, we're interested in 
     hearing about it at jpcapadmin at ultrametrics dot net.
 
